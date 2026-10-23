@@ -1,5 +1,5 @@
 ---
-name: mac-disk-audit
+name: Mac磁盘清理顾问
 slug: mac-disk-audit
 displayName: Mac磁盘清理顾问
 description: >-
@@ -8,7 +8,7 @@ author: guipi888
 license: MIT
 agent_created: true
 user-invocable: true
-version: "1.0.1"
+version: "1.0.2"
 metadata:
   {
     "openclaw": {
